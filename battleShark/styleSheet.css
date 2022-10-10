@@ -39,8 +39,8 @@ form input {
     font-size: 1em;
 }
 .hit {
-    background: url("shark.png") no-repeat center center;
+    background: url("images/shark.png") no-repeat center center;
 }
 .miss {
-    background: url("miss.png") no-repeat center center;
+    background: url("images/miss.png") no-repeat center center;
 }
